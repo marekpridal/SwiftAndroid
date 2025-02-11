@@ -4,6 +4,9 @@
     "%lld Items" : {
 
     },
+    "1 Hello [%@](https://skip.tools)!" : {
+
+    },
     "Add" : {
 
     },
@@ -73,6 +76,7 @@
 
     },
     "Hello [%@](https://skip.tools)!" : {
+      "extractionState" : "stale",
       "localizations" : {
         "es" : {
           "stringUnit" : {

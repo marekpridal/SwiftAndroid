@@ -47,7 +47,7 @@ struct WelcomeView : View {
     var body: some View {
         @Bindable var viewModel = viewModel
         VStack(spacing: 0) {
-            Text("Hello [\(viewModel.name)](https://skip.tools)!")
+            Text("1 Hello [\(viewModel.name)](https://skip.tools)!")
                 .padding()
             Image(systemName: "heart.fill")
                 .foregroundStyle(.red)
